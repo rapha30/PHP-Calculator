@@ -17,7 +17,7 @@ This repository contains a calculator developed in PHP that integrates with a da
 ## Configuration
 
 1. Clone this repository to your local development environment.
-2. Import the provided SQL file (`operacoes.sql`) to create the database structure.
+2. Import the provided SQL file `operacoes.sql` to create the database structure.
 3. Configure the database connection information in the `0-conexao.php` file.
 4. Start the web server and access the calculator through the browser.
 
