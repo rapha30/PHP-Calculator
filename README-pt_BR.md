@@ -17,7 +17,7 @@ Este repositório contém uma calculadora desenvolvida em PHP que possui integra
 ## Configuração
 
 1. Clone este repositório em seu ambiente de desenvolvimento local.
-2. Importe o arquivo SQL fornecido (`operacoes.sql`) para criar a estrutura do banco de dados.
+2. Importe o arquivo SQL fornecido `operacoes.sql` para criar a estrutura do banco de dados.
 3. Configure as informações de conexão com o banco de dados no arquivo `0-conexao.php`.
 4. Inicie o servidor web e acesse a calculadora através do navegador.
 
